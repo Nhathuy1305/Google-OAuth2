@@ -2,8 +2,8 @@
 ### Prerequisites
 * Java 8+
 * Maven ^3.6.0
-* Google Authenticator App. Can be downloaded on [App Store](https://apps.apple.com/ru/app/google-authenticator/id388497605)
-  and [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=uk)
+* Google Authenticator App. Can be downloaded on [App Store](https://apps.apple.com/us/app/google-authenticator/id388497605)
+  and [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US)
 
 ### How to Run & Use
 1. Open the terminal on your IDE
